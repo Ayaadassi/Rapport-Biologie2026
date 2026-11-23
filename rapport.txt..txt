@@ -1,0 +1,11 @@
+Titre: étude de la croissance bactérienne
+
+
+introduction:
+la croissance bactérienne correspond à l'augmentation du nombre de bactéries au cours du temps
+
+
+Objectif:
+étudier l'évolution de la population bactérienne 
+Méthode:
+observer la croissance bactérienne à différents moments
